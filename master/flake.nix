@@ -9,7 +9,7 @@
   
   inputs.src-sections-master.flake = false;
   inputs.src-sections-master.owner = "c0ffeeartc";
-  inputs.src-sections-master.ref   = "refs/heads/master";
+  inputs.src-sections-master.ref   = "master";
   inputs.src-sections-master.repo  = "nim-sections";
   inputs.src-sections-master.type  = "github";
   
